@@ -1,0 +1,19 @@
+body{
+    text-align: center;
+    font-family: sans-serif;
+}
+h1{
+    font-size: 3em;
+}
+button{
+    font-size: 2em;
+    color: white;
+    background-color: red;
+
+}
+#popo{
+    font-size: 2em;
+    font-weight: bold;
+
+
+}
